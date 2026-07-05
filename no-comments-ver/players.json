@@ -1,0 +1,18 @@
+[
+    {
+        "age": 20,
+        "balance": 3304,
+        "id": 1000,
+        "name": "Karol",
+        "password": "7572787954113592",
+        "surname": "Bednarek"
+    },
+    {
+        "age": 20,
+        "balance": 834,
+        "id": 1001,
+        "name": "abc",
+        "password": "7572787954113592",
+        "surname": "def"
+    }
+]
